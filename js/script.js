@@ -33,8 +33,8 @@ function decremment(){
 function checkDisplayLimit(){
 
   // Disable button toggle
-  addBtn.disabled = display.innerText == 10;
-  subtractBtn.disabled = display.innerText == -10;
+  addBtn.disabled = currentNumber == 10;
+  subtractBtn.disabled = currentNumber == -10;
 
 
   // Class arrows toggle
