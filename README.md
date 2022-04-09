@@ -4,6 +4,12 @@ Desafio proposto pela professora [Stephany Nusch](https://github.com/stebsnusch/
 
 ![Contador](https://user-images.githubusercontent.com/68829088/162587727-bd3a8160-1f5f-4ac5-9110-f78973441a17.gif)
 
+
+## Desafio:
+- Implemetar os eventos utilizando ``` addEventListener ```
+- Criar condicionais que desabilitam o botão de incrementar ou decrementar quando count chegar a um determinado valor
+- Mudar a cor do texto em count para vermelho quando o número for negativo.
+
 <br/><br/>
 ## [Autor](#autor)
 <img style="border-radius: 50%;" width="100px" src="https://avatars.githubusercontent.com/u/68829088?v=4"/><br/>
